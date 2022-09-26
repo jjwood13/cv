@@ -1,0 +1,49 @@
+* {
+  font-family: sans-serif;
+  
+/*  margin: 0;
+  padding: 0; */
+}
+
+.bio {
+  width: 500px;
+}
+
+.education-list {
+  display: inline-block;
+}
+
+.education-list-title {
+  font-size: 18;
+  color: black;
+  position: center;
+  list-style-type: none;
+  background: linear-gradient(to right, red, orange 75%);
+  text-align: center;
+}
+
+.education-list-item-1 {
+  list-style-type: none; 
+} 
+
+.education-list-item-2 {
+  list-style-type: none; 
+} 
+
+
+.hobby-block {
+  display: inline-block;
+}
+
+.hobby-list {
+  display: inline-block;
+}
+
+
+
+.wood-back-photo {
+  position: relative;
+  left: 10px;
+  top: 20px;
+  display: inline-block;
+}
