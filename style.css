@@ -1,0 +1,134 @@
+/********************************* TITLE SECTION *********************************/
+
+/******************** BASE ELEMENT SECTION ********************/ body {
+  font-family: "Montserrat" sans-serrif; }
+
+h1 {
+  font-family: "Montserrat-Black", sans-serrif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/******************** ID ELEMENT SECTION ********************/
+
+#title {
+  background-color: #ffb085;
+  color: #000;
+  font-family: "Montserrat-Bold", sans-serif; }
+
+/******************** CLASS ELEMENT SECTION ********************/
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/*.rotateimg33 {
+  -webkit-transform:rotate(33deg);
+  -moz-transform: rotate(33deg);
+  -ms-transform: rotate(33deg);
+  -o-transform: rotate(33deg);
+  transform: rotate(33deg);
+} */
+
+.profile-pic {
+  width: 30%;
+  border-radius: 100%;
+}
+
+.intro-h3 {
+  margin: 3% auto;
+}
+
+/******************** NAVBAR SECTION ********************/ .navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-size: 4.5rem;
+}
+
+.nav-item {
+  padding: 0 1.2rem;
+}
+
+.searchbar {
+  border-radius: 8%;
+  margin-right: 0.5rem;
+  }
+
+.searchbar-btn {
+  border-radius: 30%;
+  }
+
+/******************** PRODUCTS SECTION ********************/
+
+#products {
+  background-color: #3c4048;
+  padding: 5% 15%;
+  color: #bdbdbd;
+}
+
+.product-h2 {
+  font-family: "Ubuntu", sans-serrif;
+  color: #bdbdbd;
+}
+
+.product-img {
+  width: 75%;
+  margin: auto;
+  border-radius: 100%;
+}
+
+.product-description {
+  margin-top: 3%;
+}
+
+/******************** SAFETY SECTION ********************/ 
+
+#Safety {
+  padding: 7% 15%;
+  background-color: #2a3636;
+  color: #636363c7;
+  /* border-top: 3px dotted;
+  width: 5%;
+  margin: auto; */
+}
+
+.safety-icon {
+  font-size: 30px;
+  color: #be5344;
+}
+
+.safety-icon:hover {
+  color: #c54651;
+  cursor: pointer;
+}
+
+/******************** PRICES SECTION ********************/
+
+#Prices {
+  margin-top: 45px
+}
+
+.pricing-img {
+  width: 10rem;
+}
+
+/******************** FOOTER SECTION ********************/
+
+#Social-Media {
+  background-color: #ffb085;
+  padding: 3% 12%;
+}
+
+.media-icons {
+  font-size: 48px;
+  line-height: 1.5;
+  margin-top: 5%;
+}
